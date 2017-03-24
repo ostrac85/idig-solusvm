@@ -1,2 +1,1 @@
-# idig-solusvm
-Node package module for SolusVM
+This is a node module package build to call api from Solus application.
